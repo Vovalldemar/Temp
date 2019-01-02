@@ -12,7 +12,7 @@ namespace GitConsole
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Worldddd");
-            //console.readlinekey1
+            //console.readlinekey. release
             //console.
             Console.ReadKey();
         }
